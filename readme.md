@@ -572,35 +572,35 @@
   <div id="vuetify-code"></div>
     <h4>Vuetify</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/vuetify.svg" alt="vuetify" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/vuetify.svg" alt="vuetify" width="40" height="40" />
 
   <div id="vite-code"></div>
     <h4>Vite</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/vite.svg" alt="vite" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/vite.svg" alt="vite" width="40" height="40" />
 
   <div id="vitest-code"></div>
     <h4>Vitest</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/vitest.svg" alt="vitest" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/vitest.svg" alt="vitest" width="40" height="40" />
 
   <div id="cypress-code"></div>
     <h4>Cypress</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/cypress.svg" alt="cypress" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/cypress.svg" alt="cypress" width="40" height="40" />
 
   <div id="webpack-code"></div>
     <h4>Webpack</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/webpack.svg" alt="webpack" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/webpack.svg" alt="webpack" width="40" height="40" />
 
   <div id="postcss-code"></div>
     <h4>Postcss</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/postcss.svg" alt="postcss" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/postcss.svg" alt="postcss" width="40" height="40" />
 
   <div id="eslint-code"></div>
     <h4>Eslint</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/eslint.svg" alt="eslint" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/eslint.svg" alt="eslint" width="40" height="40" />
 </div>
