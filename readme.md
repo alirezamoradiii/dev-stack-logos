@@ -331,6 +331,62 @@
             width="22"
           />
         </a>
+        <a href="#vuetify-code">
+          <img 
+            src="./icons/frontend/vuetify.svg"
+            alt="Vuetify"
+            title="Vuetify"
+            width="22"
+          />
+        </a>
+        <a href="#vite-code">
+          <img 
+            src="./icons/frontend/vite.svg"
+            alt="Vite"
+            title="Vite"
+            width="22"
+          />
+        </a>
+        <a href="#vitest-code">
+          <img 
+            src="./icons/frontend/vitest.svg"
+            alt="Vitest"
+            title="Vitest"
+            width="22"
+          />
+        </a>
+        <a href="#cypress-code">
+          <img 
+            src="./icons/frontend/cypress.svg"
+            alt="Cypress"
+            title="Cypress"
+            width="22"
+          />
+        </a>
+        <a href="#webpack-code">
+          <img 
+            src="./icons/frontend/webpack.svg"
+            alt="Webpack"
+            title="Webpack"
+            width="22"
+          />
+        </a>
+        <a href="#postcss-code">
+          <img 
+            src="./icons/frontend/postcss.svg"
+            alt="Postcss"
+            title="Postcss"
+            width="22"
+          />
+        </a>
+        <a href="#eslint-code">
+          <img 
+            src="./icons/frontend/eslint.svg"
+            alt="Eslint"
+            title="Eslint"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
   </table>
@@ -513,4 +569,38 @@
     <h4>Styled-Components</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/styled-components.svg" alt="styled-components" width="40" height="40" />
+  <div id="vuetify-code"></div>
+    <h4>Vuetify</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/vuetify.svg" alt="vuetify" width="40" height="40" />
+
+  <div id="vite-code"></div>
+    <h4>Vite</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/vite.svg" alt="vite" width="40" height="40" />
+
+  <div id="vitest-code"></div>
+    <h4>Vitest</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/vitest.svg" alt="vitest" width="40" height="40" />
+
+  <div id="cypress-code"></div>
+    <h4>Cypress</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/cypress.svg" alt="cypress" width="40" height="40" />
+
+  <div id="webpack-code"></div>
+    <h4>Webpack</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/webpack.svg" alt="webpack" width="40" height="40" />
+
+  <div id="postcss-code"></div>
+    <h4>Postcss</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/postcss.svg" alt="postcss" width="40" height="40" />
+
+  <div id="eslint-code"></div>
+    <h4>Eslint</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/eslint.svg" alt="eslint" width="40" height="40" />
 </div>
