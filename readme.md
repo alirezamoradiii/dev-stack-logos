@@ -389,6 +389,91 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>Tools</td>
+      <td>
+        <a href="#linux-code">
+          <img 
+            src="./icons/tools/linux.svg"
+            alt="Linux"
+            title="Linux"
+            width="22"
+          />
+        </a>
+        <a href="#git-code">
+          <img 
+            src="./icons/tools/git.svg"
+            alt="Git"
+            title="Git"
+            width="22"
+          />
+        </a>
+        <a href="#github-code">
+          <img 
+            src="./icons/tools/github.svg"
+            alt="GitHub"
+            title="GitHub"
+            width="22"
+          />
+        </a>
+        <a href="#docker-code">
+          <img 
+            src="./icons/tools/docker.svg"
+            alt="Docker"
+            title="Docker"
+            width="22"
+          />
+        </a>
+        <a href="#vscode-code">
+          <img 
+            src="./icons/tools/vscode.svg"
+            alt="VsCode"
+            title="VsCode"
+            width="22"
+          />
+        </a>
+        <a href="#figma-code">
+          <img 
+            src="./icons/tools/figma.svg"
+            alt="Figma"
+            title="Figma"
+            width="22"
+          />
+        </a>
+        <a href="#npm-code">
+          <img 
+            src="./icons/tools/npm.svg"
+            alt="NPM"
+            title="NPM"
+            width="22"
+          />
+        </a>
+        <a href="#pnpm-code">
+          <img 
+            src="./icons/tools/pnpm.svg"
+            alt="PNPM"
+            title="PNPM"
+            width="22"
+          />
+        </a>
+        <a href="#yarn-code">
+          <img 
+            src="./icons/tools/yarn.svg"
+            alt="Yarn"
+            title="Yarn"
+            width="22"
+          />
+        </a>
+        <a href="#bun-code">
+          <img 
+            src="./icons/tools/bun.svg"
+            alt="Bun"
+            title="Bun"
+            width="22"
+          />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -603,4 +688,54 @@
     <h4>Eslint</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/eslint.svg" alt="eslint" width="40" height="40" />
+
+  <div id="linux-code"></div>
+    <h4>Linux</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/linux.svg" alt="linux" width="40" height="40" />
+    
+  <div id="git-code"></div>
+    <h4>Git</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/git.svg" alt="git" width="40" height="40" />
+
+  <div id="github-code"></div>
+    <h4>GitHub</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/github.svg" alt="github" width="40" height="40" />
+
+  <div id="docker-code"></div>
+    <h4>Docker</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/docker.svg" alt="docker" width="40" height="40" />
+
+  <div id="vscode-code"></div>
+    <h4>VsCode</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/vscode.svg" alt="vscode" width="40" height="40" />
+
+  <div id="figma-code"></div>
+    <h4>Figma</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/figma.svg" alt="figma" width="40" height="40" />
+
+  <div id="npm-code"></div>
+    <h4>NPM</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/npm.svg" alt="npm" width="40" height="40" />
+
+  <div id="pnpm-code"></div>
+    <h4>PNPM</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/pnpm.svg" alt="pnpm" width="40" height="40" />
+
+  <div id="yarn-code"></div>
+    <h4>Yarn</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/yarn.svg" alt="yarn" width="40" height="40" />
+
+  <div id="bun-code"></div>
+    <h4>Bun</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/bun.svg" alt="bun" width="40" height="40" />
 </div>
