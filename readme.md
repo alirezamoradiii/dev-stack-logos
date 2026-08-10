@@ -692,50 +692,50 @@
   <div id="linux-code"></div>
     <h4>Linux</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/linux.svg" alt="linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/linux.svg" alt="linux" width="40" height="40" />
     
   <div id="git-code"></div>
     <h4>Git</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/git.svg" alt="git" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/git.svg" alt="git" width="40" height="40" />
 
   <div id="github-code"></div>
     <h4>GitHub</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/github.svg" alt="github" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/github.svg" alt="github" width="40" height="40" />
 
   <div id="docker-code"></div>
     <h4>Docker</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/docker.svg" alt="docker" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/docker.svg" alt="docker" width="40" height="40" />
 
   <div id="vscode-code"></div>
     <h4>VsCode</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/vscode.svg" alt="vscode" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/vscode.svg" alt="vscode" width="40" height="40" />
 
   <div id="figma-code"></div>
     <h4>Figma</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/figma.svg" alt="figma" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/figma.svg" alt="figma" width="40" height="40" />
 
   <div id="npm-code"></div>
     <h4>NPM</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/npm.svg" alt="npm" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/npm.svg" alt="npm" width="40" height="40" />
 
   <div id="pnpm-code"></div>
     <h4>PNPM</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/pnpm.svg" alt="pnpm" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/pnpm.svg" alt="pnpm" width="40" height="40" />
 
   <div id="yarn-code"></div>
     <h4>Yarn</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/yarn.svg" alt="yarn" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/yarn.svg" alt="yarn" width="40" height="40" />
 
   <div id="bun-code"></div>
     <h4>Bun</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/bun.svg" alt="bun" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/bun.svg" alt="bun" width="40" height="40" />
 </div>
