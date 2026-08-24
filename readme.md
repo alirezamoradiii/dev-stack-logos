@@ -400,6 +400,14 @@
             width="22"
           />
         </a>
+        <a href="#express-code">
+          <img 
+            src="./icons/backend/express.svg"
+            alt="Express.js"
+            title="Express.js"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -706,6 +714,11 @@
     <h4>Node.js</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7a7eb4d80e8831c63afbf0f63d29270746f61606/icons/backend/node.svg" alt="node.js" width="40" height="40" />
+
+  <div id="express-code"></div>
+    <h4>Express.js</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7a7eb4d80e8831c63afbf0f63d29270746f61606/icons/backend/express.svg" alt="express.js" width="40" height="40" />
 
   <div id="linux-code"></div>
     <h4>Linux</h4>
