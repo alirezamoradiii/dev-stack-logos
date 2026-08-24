@@ -705,7 +705,7 @@
   <div id="node-code"></div>
     <h4>Node.js</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/node.svg" alt="node.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7a7eb4d80e8831c63afbf0f63d29270746f61606/icons/backend/node.svg" alt="node.js" width="40" height="40" />
 
   <div id="linux-code"></div>
     <h4>Linux</h4>
