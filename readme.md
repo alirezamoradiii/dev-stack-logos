@@ -718,7 +718,7 @@
   <div id="express-code"></div>
     <h4>Express.js</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7a7eb4d80e8831c63afbf0f63d29270746f61606/icons/backend/express.svg" alt="express.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/dec4bb1f6ae8644c5d954f576b196d9b3c2748cb/icons/backend/express.svg" alt="express.js" width="40" height="40" />
 
   <div id="linux-code"></div>
     <h4>Linux</h4>
