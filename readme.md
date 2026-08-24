@@ -390,6 +390,19 @@
       </td>
     </tr>
     <tr>
+      <td>Backend</td>
+      <td>
+        <a href="#node-code">
+          <img 
+            src="./icons/backend/node.svg"
+            alt="Node.js"
+            title="Node.js"
+            width="22"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td>Tools</td>
       <td>
         <a href="#linux-code">
@@ -688,6 +701,11 @@
     <h4>Eslint</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/eslint.svg" alt="eslint" width="40" height="40" />
+
+  <div id="node-code"></div>
+    <h4>Node.js</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/node.svg" alt="node.js" width="40" height="40" />
 
   <div id="linux-code"></div>
     <h4>Linux</h4>
