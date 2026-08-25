@@ -387,6 +387,14 @@
             width="22"
           />
         </a>
+        <a href="#ejs-code">
+          <img 
+            src="./icons/frontend/ejs.svg"
+            alt="EJS"
+            title="EJS"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -718,6 +726,13 @@
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/eslint.svg" alt="eslint" width="40" height="40" />
 
+  <div id="ejs-code"></div>
+    <h4>EJS</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/ejs.svg" alt="ejs" width="40" height="40" />
+
+<!-- Backend -->
+
   <div id="node-code"></div>
     <h4>Node.js</h4>
 
@@ -732,6 +747,8 @@
     <h4>NestJS</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9a5365e46fee2ba723da8c3f63f08906b2e2deb8/icons/backend/nestjs.svg" alt="nestjs" width="40" height="40" />
+
+<!-- Tools -->
 
   <div id="linux-code"></div>
     <h4>Linux</h4>
