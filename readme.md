@@ -408,6 +408,14 @@
             width="22"
           />
         </a>
+        <a href="#nestjs-code">
+          <img 
+            src="./icons/backend/nestjs.svg"
+            alt="NestJS"
+            title="NestJS"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -719,6 +727,11 @@
     <h4>Express.js</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/dec4bb1f6ae8644c5d954f576b196d9b3c2748cb/icons/backend/express.svg" alt="express.js" width="40" height="40" />
+
+  <div id="nestjs-code"></div>
+    <h4>NestJS</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/dec4bb1f6ae8644c5d954f576b196d9b3c2748cb/icons/backend/nestjs.svg" alt="nestjs" width="40" height="40" />
 
   <div id="linux-code"></div>
     <h4>Linux</h4>
