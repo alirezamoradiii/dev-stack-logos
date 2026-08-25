@@ -731,7 +731,7 @@
   <div id="nestjs-code"></div>
     <h4>NestJS</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/dec4bb1f6ae8644c5d954f576b196d9b3c2748cb/icons/backend/nestjs.svg" alt="nestjs" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9a5365e46fee2ba723da8c3f63f08906b2e2deb8/icons/backend/nestjs.svg" alt="nestjs" width="40" height="40" />
 
   <div id="linux-code"></div>
     <h4>Linux</h4>
