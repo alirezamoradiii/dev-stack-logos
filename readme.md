@@ -729,7 +729,7 @@
   <div id="ejs-code"></div>
     <h4>EJS</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/4de658282c5bb7920858c7556d3b82e07125741a/icons/frontend/ejs.svg" alt="ejs" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/86fe2de99d302358aa197c02b521d6a8ec9bd640/icons/frontend/ejs.svg" alt="ejs" width="40" height="40" />
 
 <!-- Backend -->
 
