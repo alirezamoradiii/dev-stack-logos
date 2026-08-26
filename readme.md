@@ -772,7 +772,7 @@
   <div id="redis-code"></div>
     <h4>Redis</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9a5365e46fee2ba723da8c3f63f08906b2e2deb8/icons/backend/redis.svg" alt="redis" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/ef2a1fd171672cd40b6d203b5fa04fdde2e97f48/icons/backend/redis.svg" alt="redis" width="40" height="40" />
 
 <!-- Tools -->
 
