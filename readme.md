@@ -395,6 +395,14 @@
             width="22"
           />
         </a>
+        <a href="#pug-code">
+          <img 
+            src="./icons/frontend/pug.svg"
+            alt="Pug"
+            title="Pug"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -730,6 +738,11 @@
     <h4>EJS</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/86fe2de99d302358aa197c02b521d6a8ec9bd640/icons/frontend/ejs.svg" alt="ejs" width="40" height="40" />
+
+  <div id="pug-code"></div>
+    <h4>Pug</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/86fe2de99d302358aa197c02b521d6a8ec9bd640/icons/frontend/pug.svg" alt="pug" width="40" height="40" />
 
 <!-- Backend -->
 
