@@ -432,6 +432,14 @@
             width="22"
           />
         </a>
+        <a href="#redis-code">
+          <img 
+            src="./icons/backend/redis.svg"
+            alt="Redis"
+            title="Redis"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -760,6 +768,11 @@
     <h4>NestJS</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9a5365e46fee2ba723da8c3f63f08906b2e2deb8/icons/backend/nestjs.svg" alt="nestjs" width="40" height="40" />
+
+  <div id="redis-code"></div>
+    <h4>Redis</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9a5365e46fee2ba723da8c3f63f08906b2e2deb8/icons/backend/redis.svg" alt="redis" width="40" height="40" />
 
 <!-- Tools -->
 
