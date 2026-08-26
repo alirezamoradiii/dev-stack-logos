@@ -742,7 +742,7 @@
   <div id="pug-code"></div>
     <h4>Pug</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/86fe2de99d302358aa197c02b521d6a8ec9bd640/icons/frontend/pug.svg" alt="pug" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/77dd3c3d24de1f2961a9b73ea91b5267de74a3ad/icons/frontend/pug.svg" alt="pug" width="40" height="40" />
 
 <!-- Backend -->
 
