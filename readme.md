@@ -798,7 +798,7 @@
   <div id="mysql-code"></div>
     <h4>MySQL</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/93ffd4d69741458b6d8faa5109332fcfd0d77ead/icons/backend/mysql.svg" alt="mysql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/f62656282fdc1ef58245bf3d220743783e0c7895/icons/backend/mysql.svg" alt="mysql" width="40" height="40" />
 
 <!-- Tools -->
 
