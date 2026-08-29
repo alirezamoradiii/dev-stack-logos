@@ -785,7 +785,7 @@
   <div id="sqlite-code"></div>
     <h4>SQLite</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/ef2a1fd171672cd40b6d203b5fa04fdde2e97f48/icons/backend/sqlite.svg" alt="sqlite" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/93ffd4d69741458b6d8faa5109332fcfd0d77ead/icons/backend/sqlite.svg" alt="sqlite" width="40" height="40" />
 
 <!-- Tools -->
 
