@@ -448,6 +448,14 @@
             width="22"
           />
         </a>
+        <a href="#mysql-code">
+          <img 
+            src="./icons/backend/mysql.svg"
+            alt="MySQL"
+            title="MySQL"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -786,6 +794,11 @@
     <h4>SQLite</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/93ffd4d69741458b6d8faa5109332fcfd0d77ead/icons/backend/sqlite.svg" alt="sqlite" width="40" height="40" />
+
+  <div id="mysql-code"></div>
+    <h4>MySQL</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/93ffd4d69741458b6d8faa5109332fcfd0d77ead/icons/backend/mysql.svg" alt="mysql" width="40" height="40" />
 
 <!-- Tools -->
 
