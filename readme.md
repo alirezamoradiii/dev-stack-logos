@@ -440,6 +440,14 @@
             width="22"
           />
         </a>
+        <a href="#sqlite-code">
+          <img 
+            src="./icons/backend/sqlite.svg"
+            alt="SQLite"
+            title="SQLite"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -773,6 +781,11 @@
     <h4>Redis</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/ef2a1fd171672cd40b6d203b5fa04fdde2e97f48/icons/backend/redis.svg" alt="redis" width="40" height="40" />
+
+  <div id="sqlite-code"></div>
+    <h4>SQLite</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/ef2a1fd171672cd40b6d203b5fa04fdde2e97f48/icons/backend/sqlite.svg" alt="sqlite" width="40" height="40" />
 
 <!-- Tools -->
 
