@@ -464,6 +464,14 @@
             width="22"
           />
         </a>
+        <a href="#mongodb-code">
+          <img 
+            src="./icons/backend/mongodb.svg"
+            alt="Mongodb"
+            title="Mongodb"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -812,6 +820,11 @@
     <h4>PostgreSQL</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9d9a6b137538b9164c870e97f9db64c0d75cdc2d/icons/backend/postgresql.svg" alt="postgresql" width="40" height="40" />
+
+  <div id="mongodb-code"></div>
+    <h4>Mongodb</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9d9a6b137538b9164c870e97f9db64c0d75cdc2d/icons/backend/mongodb.svg" alt="mongodb" width="40" height="40" />
 
 <!-- Tools -->
 
