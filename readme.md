@@ -811,7 +811,7 @@
   <div id="postgresql-code"></div>
     <h4>PostgreSQL</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/f62656282fdc1ef58245bf3d220743783e0c7895/icons/backend/postgresql.svg" alt="postgresql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9d9a6b137538b9164c870e97f9db64c0d75cdc2d/icons/backend/postgresql.svg" alt="postgresql" width="40" height="40" />
 
 <!-- Tools -->
 
