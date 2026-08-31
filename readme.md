@@ -456,6 +456,14 @@
             width="22"
           />
         </a>
+        <a href="#postgresql-code">
+          <img 
+            src="./icons/backend/postgresql.svg"
+            alt="PostgreSQL"
+            title="PostgreSQL"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -799,6 +807,11 @@
     <h4>MySQL</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/f62656282fdc1ef58245bf3d220743783e0c7895/icons/backend/mysql.svg" alt="mysql" width="40" height="40" />
+
+  <div id="postgresql-code"></div>
+    <h4>PostgreSQL</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/f62656282fdc1ef58245bf3d220743783e0c7895/icons/backend/postgresql.svg" alt="postgresql" width="40" height="40" />
 
 <!-- Tools -->
 
