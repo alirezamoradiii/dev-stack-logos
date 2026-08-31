@@ -824,7 +824,7 @@
   <div id="mongodb-code"></div>
     <h4>Mongodb</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9d9a6b137538b9164c870e97f9db64c0d75cdc2d/icons/backend/mongodb.svg" alt="mongodb" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/51250c83b058ec820072e2e404cd8001e446b1dd/icons/backend/mongodb.svg" alt="mongodb" width="40" height="40" />
 
 <!-- Tools -->
 
