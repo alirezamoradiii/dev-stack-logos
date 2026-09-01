@@ -480,6 +480,14 @@
             width="22"
           />
         </a>
+        <a href="#laravel-code">
+          <img 
+            src="./icons/backend/laravel.svg"
+            alt="Laravel"
+            title="Laravel"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -838,6 +846,11 @@
     <h4>PHP</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/362573b6559af4de5ac1409b38be31420cb3f076/icons/backend/php.svg" alt="php" width="40" height="40" />
+
+  <div id="laravel-code"></div>
+    <h4>Laravel</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/362573b6559af4de5ac1409b38be31420cb3f076/icons/backend/laravel.svg" alt="laravel" width="40" height="40" />
 
 <!-- Tools -->
 
