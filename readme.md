@@ -472,6 +472,14 @@
             width="22"
           />
         </a>
+        <a href="#php-code">
+          <img 
+            src="./icons/backend/php.svg"
+            alt="PHP"
+            title="PHP"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -825,6 +833,11 @@
     <h4>Mongodb</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/51250c83b058ec820072e2e404cd8001e446b1dd/icons/backend/mongodb.svg" alt="mongodb" width="40" height="40" />
+
+  <div id="php-code"></div>
+    <h4>PHP</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/51250c83b058ec820072e2e404cd8001e446b1dd/icons/backend/php.svg" alt="php" width="40" height="40" />
 
 <!-- Tools -->
 
