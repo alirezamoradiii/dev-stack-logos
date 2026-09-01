@@ -850,7 +850,7 @@
   <div id="laravel-code"></div>
     <h4>Laravel</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/362573b6559af4de5ac1409b38be31420cb3f076/icons/backend/laravel.svg" alt="laravel" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/5eb8ab377377d414e15147efc07664d2a8ce2058/icons/backend/laravel.svg" alt="laravel" width="40" height="40" />
 
 <!-- Tools -->
 
