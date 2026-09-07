@@ -863,7 +863,7 @@
   <div id="python-code"></div>
     <h4>Python</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/5eb8ab377377d414e15147efc07664d2a8ce2058/icons/backend/python.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/28dec7fe0801a70cce198e2d7ba4d9004b3c66ac/icons/backend/python.svg" alt="python" width="40" height="40" />
 
 <!-- Tools -->
 
