@@ -488,6 +488,14 @@
             width="22"
           />
         </a>
+        <a href="#python-code">
+          <img 
+            src="./icons/backend/python.svg"
+            alt="Python"
+            title="Python"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -851,6 +859,11 @@
     <h4>Laravel</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/5eb8ab377377d414e15147efc07664d2a8ce2058/icons/backend/laravel.svg" alt="laravel" width="40" height="40" />
+
+  <div id="python-code"></div>
+    <h4>Python</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/5eb8ab377377d414e15147efc07664d2a8ce2058/icons/backend/python.svg" alt="python" width="40" height="40" />
 
 <!-- Tools -->
 
