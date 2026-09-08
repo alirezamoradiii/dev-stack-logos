@@ -496,6 +496,14 @@
             width="22"
           />
         </a>
+        <a href="#django-code">
+          <img 
+            src="./icons/backend/django.svg"
+            alt="Django"
+            title="Django"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -864,6 +872,11 @@
     <h4>Python</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/28dec7fe0801a70cce198e2d7ba4d9004b3c66ac/icons/backend/python.svg" alt="python" width="40" height="40" />
+
+  <div id="django-code"></div>
+    <h4>Django</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/28dec7fe0801a70cce198e2d7ba4d9004b3c66ac/icons/backend/django.svg" alt="django" width="40" height="40" />
 
 <!-- Tools -->
 
