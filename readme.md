@@ -876,7 +876,7 @@
   <div id="django-code"></div>
     <h4>Django</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/28dec7fe0801a70cce198e2d7ba4d9004b3c66ac/icons/backend/django.svg" alt="django" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/f94615df22286338f74037988f82279877007be5/icons/backend/django.svg" alt="django" width="40" height="40" />
 
 <!-- Tools -->
 
