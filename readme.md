@@ -941,5 +941,5 @@
   <div id="postman-code"></div>
     <h4>Postman</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/postman.svg" alt="postman" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/424146513dee5ea89fbdfce700670823a79d3232/icons/tools/postman.svg" alt="postman" width="40" height="40" />
 </div>
