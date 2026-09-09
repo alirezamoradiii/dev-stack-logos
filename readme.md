@@ -597,6 +597,14 @@
             width="22"
           />
         </a>
+        <a href="#jira-code">
+          <img 
+            src="./icons/tools/jira.svg"
+            alt="Jira"
+            title="Jira"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
   </table>
@@ -942,4 +950,9 @@
     <h4>Postman</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/424146513dee5ea89fbdfce700670823a79d3232/icons/tools/postman.svg" alt="postman" width="40" height="40" />
+
+  <div id="jira-code"></div>
+    <h4>Jira</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/424146513dee5ea89fbdfce700670823a79d3232/icons/tools/jira.svg" alt="jira" width="40" height="40" />
 </div>
