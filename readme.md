@@ -589,6 +589,14 @@
             width="22"
           />
         </a>
+        <a href="#postman-code">
+          <img 
+            src="./icons/tools/postman.svg"
+            alt="Postman"
+            title="Postman"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
   </table>
@@ -929,4 +937,9 @@
     <h4>Bun</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/bun.svg" alt="bun" width="40" height="40" />
+
+  <div id="postman-code"></div>
+    <h4>Postman</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/postman.svg" alt="postman" width="40" height="40" />
 </div>
