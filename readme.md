@@ -954,5 +954,5 @@
   <div id="jira-code"></div>
     <h4>Jira</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/424146513dee5ea89fbdfce700670823a79d3232/icons/tools/jira.svg" alt="jira" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/6ab5557eab98cd4acc20dd4b11567bd7ec920a6e/icons/tools/jira.svg" alt="jira" width="40" height="40" />
 </div>
