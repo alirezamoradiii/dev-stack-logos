@@ -605,6 +605,14 @@
             width="22"
           />
         </a>
+        <a href="#trello-code">
+          <img 
+            src="./icons/tools/trello.svg"
+            alt="Trello"
+            title="Trello"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
   </table>
@@ -955,4 +963,9 @@
     <h4>Jira</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/6ab5557eab98cd4acc20dd4b11567bd7ec920a6e/icons/tools/jira.svg" alt="jira" width="40" height="40" />
+
+  <div id="trello-code"></div>
+    <h4>Trello</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/6ab5557eab98cd4acc20dd4b11567bd7ec920a6e/icons/tools/trello.svg" alt="trello" width="40" height="40" />
 </div>
