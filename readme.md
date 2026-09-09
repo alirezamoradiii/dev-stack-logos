@@ -967,5 +967,5 @@
   <div id="trello-code"></div>
     <h4>Trello</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/6ab5557eab98cd4acc20dd4b11567bd7ec920a6e/icons/tools/trello.svg" alt="trello" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/bd1d7c38e3fe21d6c16ec40acd8137e31c3532e7/icons/tools/trello.svg" alt="trello" width="40" height="40" />
 </div>
