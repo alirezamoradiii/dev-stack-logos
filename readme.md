@@ -907,65 +907,65 @@
   <div id="linux-code"></div>
     <h4>Linux</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/linux.svg" alt="linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/linux.svg" alt="linux" width="40" height="40" />
     
   <div id="git-code"></div>
     <h4>Git</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/git.svg" alt="git" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/git.svg" alt="git" width="40" height="40" />
 
   <div id="github-code"></div>
     <h4>GitHub</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/github.svg" alt="github" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/github.svg" alt="github" width="40" height="40" />
 
   <div id="docker-code"></div>
     <h4>Docker</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/docker.svg" alt="docker" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/docker.svg" alt="docker" width="40" height="40" />
 
   <div id="vscode-code"></div>
     <h4>VsCode</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/vscode.svg" alt="vscode" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/vscode.svg" alt="vscode" width="40" height="40" />
 
   <div id="figma-code"></div>
     <h4>Figma</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/figma.svg" alt="figma" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/figma.svg" alt="figma" width="40" height="40" />
 
   <div id="npm-code"></div>
     <h4>NPM</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/npm.svg" alt="npm" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/npm.svg" alt="npm" width="40" height="40" />
 
   <div id="pnpm-code"></div>
     <h4>PNPM</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/pnpm.svg" alt="pnpm" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/pnpm.svg" alt="pnpm" width="40" height="40" />
 
   <div id="yarn-code"></div>
     <h4>Yarn</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/yarn.svg" alt="yarn" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/yarn.svg" alt="yarn" width="40" height="40" />
 
   <div id="bun-code"></div>
     <h4>Bun</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9b4ca0c9a85449da47e2afb96b8cec301943352b/icons/tools/bun.svg" alt="bun" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/bun.svg" alt="bun" width="40" height="40" />
 
   <div id="postman-code"></div>
     <h4>Postman</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/424146513dee5ea89fbdfce700670823a79d3232/icons/tools/postman.svg" alt="postman" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/postman.svg" alt="postman" width="40" height="40" />
 
   <div id="jira-code"></div>
     <h4>Jira</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/6ab5557eab98cd4acc20dd4b11567bd7ec920a6e/icons/tools/jira.svg" alt="jira" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/jira.svg" alt="jira" width="40" height="40" />
 
   <div id="trello-code"></div>
     <h4>Trello</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/bd1d7c38e3fe21d6c16ec40acd8137e31c3532e7/icons/tools/trello.svg" alt="trello" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/trello.svg" alt="trello" width="40" height="40" />
 </div>
