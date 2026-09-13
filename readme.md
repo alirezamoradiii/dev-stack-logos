@@ -464,6 +464,14 @@
             width="22"
           />
         </a>
+        <a href="#sql-server-code">
+          <img 
+            src="./icons/backend/sql-server.svg"
+            alt="SQL Server"
+            title="SQL Server"
+            width="22"
+          />
+        </a>
         <a href="#mongodb-code">
           <img 
             src="./icons/backend/mongodb.svg"
@@ -639,7 +647,7 @@
     <h4>TailwindCss</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/frontend/tailwindcss.svg"
-     alt="Tailwind" width="40" height="40" />
+    alt="Tailwind" width="40" height="40" />
 
   <div id="bootstrap-code"></div>
     <h4>Bootstrap</h4>
@@ -876,6 +884,11 @@
     <h4>PostgreSQL</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/postgresql.svg" alt="postgresql" width="40" height="40" />
+
+  <div id="sql-server-code"></div>
+    <h4>SQL Server</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/sql-server.svg" alt="sql-server" width="40" height="40" />
 
   <div id="mongodb-code"></div>
     <h4>Mongodb</h4>
