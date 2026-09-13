@@ -480,6 +480,14 @@
             width="22"
           />
         </a>
+        <a href="#typeorm-code">
+          <img 
+            src="./icons/backend/typeorm.svg"
+            alt="TypeORM"
+            title="TypeORM"
+            width="22"
+          />
+        </a>
         <a href="#php-code">
           <img 
             src="./icons/backend/php.svg"
@@ -894,6 +902,11 @@
     <h4>Mongodb</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/mongodb.svg" alt="mongodb" width="40" height="40" />
+
+  <div id="typeorm-code"></div>
+    <h4>TypeORM</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/typeorm.svg" alt="typeorm" width="40" height="40" />
 
   <div id="php-code"></div>
     <h4>PHP</h4>
