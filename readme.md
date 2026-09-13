@@ -845,62 +845,62 @@
   <div id="node-code"></div>
     <h4>Node.js</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7a7eb4d80e8831c63afbf0f63d29270746f61606/icons/backend/node.svg" alt="node.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/node.svg" alt="node.js" width="40" height="40" />
 
   <div id="express-code"></div>
     <h4>Express.js</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/dec4bb1f6ae8644c5d954f576b196d9b3c2748cb/icons/backend/express.svg" alt="express.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/express.svg" alt="express.js" width="40" height="40" />
 
   <div id="nestjs-code"></div>
     <h4>NestJS</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9a5365e46fee2ba723da8c3f63f08906b2e2deb8/icons/backend/nestjs.svg" alt="nestjs" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/nestjs.svg" alt="nestjs" width="40" height="40" />
 
   <div id="redis-code"></div>
     <h4>Redis</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/ef2a1fd171672cd40b6d203b5fa04fdde2e97f48/icons/backend/redis.svg" alt="redis" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/redis.svg" alt="redis" width="40" height="40" />
 
   <div id="sqlite-code"></div>
     <h4>SQLite</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/93ffd4d69741458b6d8faa5109332fcfd0d77ead/icons/backend/sqlite.svg" alt="sqlite" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/sqlite.svg" alt="sqlite" width="40" height="40" />
 
   <div id="mysql-code"></div>
     <h4>MySQL</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/f62656282fdc1ef58245bf3d220743783e0c7895/icons/backend/mysql.svg" alt="mysql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/mysql.svg" alt="mysql" width="40" height="40" />
 
   <div id="postgresql-code"></div>
     <h4>PostgreSQL</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/9d9a6b137538b9164c870e97f9db64c0d75cdc2d/icons/backend/postgresql.svg" alt="postgresql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/postgresql.svg" alt="postgresql" width="40" height="40" />
 
   <div id="mongodb-code"></div>
     <h4>Mongodb</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/51250c83b058ec820072e2e404cd8001e446b1dd/icons/backend/mongodb.svg" alt="mongodb" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/mongodb.svg" alt="mongodb" width="40" height="40" />
 
   <div id="php-code"></div>
     <h4>PHP</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/362573b6559af4de5ac1409b38be31420cb3f076/icons/backend/php.svg" alt="php" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/php.svg" alt="php" width="40" height="40" />
 
   <div id="laravel-code"></div>
     <h4>Laravel</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/5eb8ab377377d414e15147efc07664d2a8ce2058/icons/backend/laravel.svg" alt="laravel" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/laravel.svg" alt="laravel" width="40" height="40" />
 
   <div id="python-code"></div>
     <h4>Python</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/28dec7fe0801a70cce198e2d7ba4d9004b3c66ac/icons/backend/python.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/python.svg" alt="python" width="40" height="40" />
 
   <div id="django-code"></div>
     <h4>Django</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/f94615df22286338f74037988f82279877007be5/icons/backend/django.svg" alt="django" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/django.svg" alt="django" width="40" height="40" />
 
 <!-- Tools -->
 
