@@ -347,6 +347,14 @@
             width="22"
           />
         </a>
+        <a href="#jest-code">
+          <img 
+            src="./icons/frontend/jest.svg"
+            alt="Jest"
+            title="Jest"
+            width="22"
+          />
+        </a>
         <a href="#vitest-code">
           <img 
             src="./icons/frontend/vitest.svg"
@@ -820,6 +828,11 @@
     <h4>Vite</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/frontend/vite.svg" alt="vite" width="40" height="40" />
+
+  <div id="jest-code"></div>
+    <h4>Jest</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/frontend/jest.svg" alt="jest" width="40" height="40" />
 
   <div id="vitest-code"></div>
     <h4>Vitest</h4>
