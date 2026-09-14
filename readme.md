@@ -528,6 +528,14 @@
             width="22"
           />
         </a>
+        <a href="#drf-code">
+          <img 
+            src="./icons/backend/drf.svg"
+            alt="Django REST"
+            title="Django REST"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
     <tr>
@@ -948,6 +956,11 @@
     <h4>Django</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/django.svg" alt="django" width="40" height="40" />
+
+  <div id="drf-code"></div>
+    <h4>Django REST</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/drf.svg" alt="django-rest-framework" width="40" height="40" />
 
 <!-- Tools -->
 
