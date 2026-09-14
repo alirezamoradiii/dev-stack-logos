@@ -557,6 +557,14 @@
             width="22"
           />
         </a>
+        <a href="#gitlab-code">
+          <img 
+            src="./icons/tools/gitlab.svg"
+            alt="GitLab"
+            title="GitLab"
+            width="22"
+          />
+        </a>
         <a href="#docker-code">
           <img 
             src="./icons/tools/docker.svg"
@@ -957,6 +965,11 @@
     <h4>GitHub</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/github.svg" alt="github" width="40" height="40" />
+
+  <div id="gitlab-code"></div>
+    <h4>GitLab</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/tools/gitlab.svg" alt="gitlab" width="40" height="40" />
 
   <div id="docker-code"></div>
     <h4>Docker</h4>
