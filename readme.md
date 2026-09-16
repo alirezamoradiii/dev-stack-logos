@@ -488,6 +488,14 @@
             width="22"
           />
         </a>
+        <a href="#swagger-code">
+          <img 
+            src="./icons/backend/swagger.svg"
+            alt="Swagger"
+            title="Swagger"
+            width="22"
+          />
+        </a>
         <a href="#typeorm-code">
           <img 
             src="./icons/backend/typeorm.svg"
@@ -931,6 +939,11 @@
     <h4>Mongodb</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/mongodb.svg" alt="mongodb" width="40" height="40" />
+
+  <div id="swagger-code"></div>
+    <h4>Swagger</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/master/icons/backend/swagger.svg" alt="swagger" width="40" height="40" />
 
   <div id="typeorm-code"></div>
     <h4>TypeORM</h4>
